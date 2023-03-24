@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #424e61;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.cabecalho-imagem {
+    width: 110px;           
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 15px 13px;
+    font-size: 18px;
+}
+
+.escolatudo{    
+    background-image:linear-gradient(#424e61,#4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-conteudo {
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+}
+
+.imagem-lendo {
+    width: 25%;
+}
